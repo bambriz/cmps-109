@@ -1,0 +1,20 @@
+define a text Fixed-9x15 hello
+define b text Fixed-9x15 hi
+define c text Fixed-9x15 goodbye
+define d text Fixed-9x15 nerp
+define e ellipse 50 101
+define f circle 60
+define g rectangle 60 125
+define h square 60
+define i polygon 45 45 100 200 200 45
+moveby 25
+border white 50
+draw blue1 a 100 100
+draw red1 b 300 100
+draw brown c 400 50
+draw burlywood d 300 50
+draw purple e 200 200
+draw yellow f 100 100
+draw green g 800 300
+draw red h 300 400
+draw brown i 50 125
